@@ -1,0 +1,28 @@
+<!--
+     li태그를 사용할때는 부모태그를 사용하여 li태그를 구분할 수 있다. (ul,ol)
+     ol ->  ordered list ( 번호로 표기 )
+     ul -> unorderd list ( 번호 대신 특수문자료 표현  )
+-->
+<ul>
+  <li> 1.HTML</li>
+  <li> 2.CSS</li>
+  <li> 3.JavaScript</li>
+</ul>
+
+<ol>
+  <li> 1.HTML</li>
+  <li> 2.CSS</li>
+  <li> 3.JavaScript</li>
+</ol>
+
+<h1> html </h1>
+
+안녕하세요
+<!-- p는 단락을 구분하는 태그이며, 부가적인 기능을 sytle이라는 css명령어로 표현 -->
+<p style ="margin-top:50px"><strong>이보인입니다.</strong>
+나이는 32살이며,<br>부천에 삽니다.</p>
+<!-- img는 이미지를 넣을때 사용 -->
+<img src="img.jpg" width = "50%"> --이미지에 대한 속성 값 적용
+<p>
+만나서 반갑습니다.
+</p>
